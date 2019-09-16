@@ -1,2 +1,2 @@
 # HR-interviewee-salary-negotiation
-Using various non-linear regression models the HR team of a company tries to predict whether the expected salary quoted by an interviewee is suitable for his position or not.
+An interviewee claims to have been a regional manager in a firm for more than 2 years and expects a salary of 160K from his new company. To check whether it's feasible for the company to pay him 160K or not for his position(that is somewhere halfway between regional manager and partner, since it requires a minimum of 4 years of experience to be a partner from a regional manager but he has only 2) the HR team runs various non-linear regression models considering the salries of other positions.
